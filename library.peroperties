@@ -1,0 +1,9 @@
+name=rhio-rgbled
+version=1.0.3
+author=Jordi Enguídanos <jenguidanos@rhomb.io>
+maintainer=Jordi Enguídanos <jenguidanos@rhomb.io>
+sentence=Library to control the on-board I2C RGB on Halley and Hydra
+paragraph=Library to control the on-board I2C RGB on Halley and Hydra
+category=Other
+url=https://github.com/Rhomb-io/rhio-rgbled
+architectures=*
